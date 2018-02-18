@@ -1,0 +1,21 @@
+<parametor>
+	<screenSize>800x800</screenSize>
+	<fullscreen__F_>0</fullscreen__F_>
+	<img_dpi>4800</img_dpi>
+	<GuiHide_h_>0</GuiHide_h_>
+	<dot_r_ave>70</dot_r_ave>
+	<dot_r_stdev>0</dot_r_stdev>
+	<dot_density_ave>50</dot_density_ave>
+	<dot_density_stdev>0</dot_density_stdev>
+	<dot2_r_ave>0</dot2_r_ave>
+	<dot2_r_stdev>0</dot2_r_stdev>
+	<dot2_density_ave>255</dot2_density_ave>
+	<dot2_density_stdev>0</dot2_density_stdev>
+	<yy_sin_amp>25</yy_sin_amp>
+	<yy_sin_pitch>1.1395</yy_sin_pitch>
+	<xx_sin_amp>0</xx_sin_amp>
+	<xx_sin_pitch>1</xx_sin_pitch>
+	<image_size>5</image_size>
+	<dot_y_stdev>0</dot_y_stdev>
+<parametor/>
+</parametor>
